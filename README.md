@@ -214,7 +214,7 @@ let package = Package(
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/YourUsername/WebRTC.git", exact: "146.0.0")
+    .package(url: "https://github.com/AshYadav1/WebRTC.git", exact: "146.0.0")
 ]
 ```
 
